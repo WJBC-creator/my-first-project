@@ -29,4 +29,3 @@ git push -u origin main           # 推送到 GitHub
 ## 备注
 
 - 推送时如果要求输密码，用 GitHub 的 Personal Access Token，不是登录密码。
-- 默认分支现在叫 `main`，老教程里写的 `master` 是历史叫法。
